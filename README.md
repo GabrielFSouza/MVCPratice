@@ -1,0 +1,2 @@
+# MVCPratice
+Pratice applications MVC
